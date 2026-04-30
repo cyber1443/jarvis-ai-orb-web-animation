@@ -1,6 +1,20 @@
 # jarvis-ai-web-animation
 
+<p align="center">
+  <img src="./assets/orb-hero.png" alt="Jarvis orb" width="420" />
+</p>
+
+<p align="center">
+  <a href="https://www.npmjs.com/package/jarvis-ai-web-animation"><img src="https://img.shields.io/npm/v/jarvis-ai-web-animation.svg" alt="npm" /></a>
+  <a href="https://github.com/cyber1443/jarvis-ai-web-animation/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/jarvis-ai-web-animation.svg" alt="license" /></a>
+  <a href="https://cyber1443.github.io/jarvis-ai-web-animation/"><img src="https://img.shields.io/badge/live%20demo-online-22d3ee" alt="live demo" /></a>
+</p>
+
 A Jarvis-style AI orb for React, powered by Three.js. Drop it into any React app to render a glowing, orbital, state-driven mascot — useful for AI assistants, voice interfaces, status indicators, and hero sections.
+
+**[→ Live demo](https://cyber1443.github.io/jarvis-ai-web-animation/)** — see all built-in palettes, custom palettes, custom states, and pointer interaction in action.
+
+![All variants](./assets/orb-preview.png)
 
 - **State-driven**: switch between built-in moods (`idle`, `thinking`, `success`, `alert`) or supply your own state target.
 - **Themeable**: use a built-in palette (`cyan`, `aurora`, `ember`) or pass an arbitrary 5-color palette object.
