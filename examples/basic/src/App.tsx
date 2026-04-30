@@ -45,6 +45,16 @@ export function App() {
   const [state, setState] = useState<JarvisStateName>("thinking");
   const [pulses, setPulses] = useState(0);
 
+  if (typeof window !== "undefined" && window.location.search.includes("hero=1")) {
+    return (
+      <div style={{ width: "100vw", height: "100vh", display: "flex", alignItems: "center", justifyContent: "center" }}>
+        <div style={{ width: 560, height: 560 }}>
+          <JarvisOrb size="hero" palette="cyan" state="thinking" interactive draggableSpin />
+        </div>
+      </div>
+    );
+  }
+
   return (
     <main style={{ padding: 24, maxWidth: 1200, margin: "0 auto" }}>
       <header style={{ marginBottom: 24 }}>
