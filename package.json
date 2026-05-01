@@ -4,12 +4,12 @@
   "description": "Jarvis-style AI orb — React component with Three.js orbital animation, themeable palettes, and state-driven moods.",
   "license": "MIT",
   "author": "cyber1443",
-  "homepage": "https://github.com/cyber1443/jarvis-ai-web-animation#readme",
+  "homepage": "https://github.com/cyber1443/jarvis-ai-orb-web-animation#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cyber1443/jarvis-ai-web-animation.git"
+    "url": "git+https://github.com/cyber1443/jarvis-ai-orb-web-animation.git"
   },
-  "bugs": "https://github.com/cyber1443/jarvis-ai-web-animation/issues",
+  "bugs": "https://github.com/cyber1443/jarvis-ai-orb-web-animation/issues",
   "keywords": [
     "jarvis",
     "ai",

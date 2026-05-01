@@ -38,8 +38,8 @@ jobs:
       - name: Build example with Pages base
         working-directory: examples/basic
         env:
-          VITE_BASE: /jarvis-ai-web-animation/
-        run: npx vite build --base=/jarvis-ai-web-animation/
+          VITE_BASE: /jarvis-ai-orb-web-animation/
+        run: npx vite build --base=/jarvis-ai-orb-web-animation/
 
       - uses: actions/upload-pages-artifact@v3
         with:

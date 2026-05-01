@@ -1,20 +1,22 @@
-# jarvis-ai-web-animation
+# jarvis-ai-orb-web-animation
+
+> Published to npm as `jarvis-ai-web-animation`. Repo and project title use the longer, more descriptive `jarvis-ai-orb-web-animation`.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/cyber1443/jarvis-ai-web-animation/main/assets/orb-hero.png" alt="Jarvis orb" width="420" />
+  <img src="https://raw.githubusercontent.com/cyber1443/jarvis-ai-orb-web-animation/main/assets/orb-hero.png" alt="Jarvis orb" width="420" />
 </p>
 
 <p align="center">
   <a href="https://www.npmjs.com/package/jarvis-ai-web-animation"><img src="https://img.shields.io/npm/v/jarvis-ai-web-animation.svg" alt="npm" /></a>
-  <a href="https://github.com/cyber1443/jarvis-ai-web-animation/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/jarvis-ai-web-animation.svg" alt="license" /></a>
-  <a href="https://cyber1443.github.io/jarvis-ai-web-animation/"><img src="https://img.shields.io/badge/live%20demo-online-22d3ee" alt="live demo" /></a>
+  <a href="https://github.com/cyber1443/jarvis-ai-orb-web-animation/blob/main/LICENSE"><img src="https://img.shields.io/npm/l/jarvis-ai-web-animation.svg" alt="license" /></a>
+  <a href="https://cyber1443.github.io/jarvis-ai-orb-web-animation/"><img src="https://img.shields.io/badge/live%20demo-online-22d3ee" alt="live demo" /></a>
 </p>
 
 A Jarvis-style AI orb for React, powered by Three.js. Drop it into any React app to render a glowing, orbital, state-driven mascot — useful for AI assistants, voice interfaces, status indicators, and hero sections.
 
-**[→ Live demo](https://cyber1443.github.io/jarvis-ai-web-animation/)** — see all built-in palettes, custom palettes, custom states, and pointer interaction in action.
+**[→ Live demo](https://cyber1443.github.io/jarvis-ai-orb-web-animation/)** — see all built-in palettes, custom palettes, custom states, and pointer interaction in action.
 
-![All variants](https://raw.githubusercontent.com/cyber1443/jarvis-ai-web-animation/main/assets/orb-preview.png)
+![All variants](https://raw.githubusercontent.com/cyber1443/jarvis-ai-orb-web-animation/main/assets/orb-preview.png)
 
 - **State-driven**: switch between built-in moods (`idle`, `thinking`, `success`, `alert`) or supply your own state target.
 - **Themeable**: use a built-in palette (`cyan`, `aurora`, `ember`) or pass an arbitrary 5-color palette object.
