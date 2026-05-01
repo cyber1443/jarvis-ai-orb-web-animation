@@ -1,6 +1,6 @@
 {
   "name": "jarvis-ai-web-animation",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Jarvis-style AI orb — React component with Three.js orbital animation, themeable palettes, and state-driven moods.",
   "license": "MIT",
   "author": "cyber1443",
